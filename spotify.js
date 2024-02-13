@@ -56,7 +56,7 @@ async function getsongs(folder)                    //fetching songs
               <img class="invert" src="music.png">
         <div class="info">
               
-              <div>${song.replaceAll("%20", " ")}</div>
+              <div>${song}</div>
               
               
         </div>
